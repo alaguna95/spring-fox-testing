@@ -5,5 +5,5 @@ This project helps to understand the library spring fox who document your projec
 Official documentation --> https://springfox.github.io/springfox/docs/current/
 
 ## Spring fox urls:
--http://localhost:8080/v2/api-docs
--http://localhost:8080/swagger-ui.html
+- http://localhost:8080/v2/api-docs
+- http://localhost:8080/swagger-ui.html
